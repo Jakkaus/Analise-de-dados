@@ -1,1 +1,12 @@
-<img src="[/assets/img/MarineGEO_logo.png](https://onedrive.live.com/?cid=6E776AF2EE6451E6&id=6E776AF2EE6451E6%2115561&parId=root&o=OneUp)https://onedrive.live.com/?cid=6E776AF2EE6451E6&id=6E776AF2EE6451E6%2115561&parId=root&o=OneUp" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+## Análise de dados - Termos populares
+Os termos mais populares pesquisados nos ultimos 7 dias do mês de novembro
+
+### Tecnologias utilizadas
+- MySQL
+- Excel
+- PowerBi
+- Google Cloud BigQuery
+
+<BR>
+
+<img src="fluxo_google_cloud.drawio.png" alt="Fluxo das tecnologias utilizadas na análise"/>
