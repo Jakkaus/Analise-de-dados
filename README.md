@@ -1,5 +1,5 @@
 ## Análise de dados - Termos populares
-Os termos mais populares pesquisados nos ultimos 7 dias do mês de novembro
+Os termos mais populares pesquisados no Brasil nos ultimos 7 dias do mês de novembro
 
 <BR>
 
